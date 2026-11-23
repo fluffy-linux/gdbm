@@ -1,0 +1,1 @@
+../translationproject/PO-files/fi/gdbm-1.10.90.fi.po

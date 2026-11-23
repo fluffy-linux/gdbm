@@ -1,0 +1,1 @@
+../translationproject/PO-files/pt_BR/gdbm-1.21.90.pt_BR.po

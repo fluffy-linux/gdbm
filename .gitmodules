@@ -1,0 +1,3 @@
+[submodule "translationproject"]
+	path = translationproject
+	url = ../translationproject.git
