@@ -23,7 +23,7 @@
    The DIST_DATE magic below is replaced by the actual date when
    making the distdir. */
 const char * gdbm_version = "GDBM version " PACKAGE_VERSION ". "
-/*@DIST_DATE@*/
+"30/07/2025"
 #if defined(__STDC__) && defined(__DATE__) && defined(__TIME__)
 		" (built " __DATE__ " " __TIME__ ")"
 #endif
