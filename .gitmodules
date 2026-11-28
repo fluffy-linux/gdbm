@@ -1,3 +1,19 @@
 [submodule "translationproject"]
 	path = translationproject
 	url = ../translationproject.git
+	fluffy-sparse = /PO-files/da/gdbm-1.12.90.da.po
+	fluffy-sparse = /PO-files/de/gdbm-1.23.90.de.po
+	fluffy-sparse = /PO-files/eo/gdbm-1.19.90.eo.po
+	fluffy-sparse = /PO-files/es/gdbm-1.23.90.es.po
+	fluffy-sparse = /PO-files/fi/gdbm-1.10.90.fi.po
+	fluffy-sparse = /PO-files/fr/gdbm-1.23.90.fr.po
+	fluffy-sparse = /PO-files/ja/gdbm-1.10.ja.po
+	fluffy-sparse = /PO-files/ka/gdbm-1.23.ka.po
+	fluffy-sparse = /PO-files/pl/gdbm-1.23.90.pl.po
+	fluffy-sparse = /PO-files/pt_BR/gdbm-1.21.90.pt_BR.po
+	fluffy-sparse = /PO-files/ro/gdbm-1.23.90.ro.po
+	fluffy-sparse = /PO-files/ru/gdbm-1.23.ru.po
+	fluffy-sparse = /PO-files/sr/gdbm-1.23.sr.po
+	fluffy-sparse = /PO-files/sv/gdbm-1.23.90.sv.po
+	fluffy-sparse = /PO-files/uk/gdbm-1.23.90.uk.po
+	fluffy-sparse = /PO-files/vi/gdbm-1.15.vi.po
